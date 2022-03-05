@@ -1,17 +1,12 @@
 ### Hi there 👋
 
-## I'm Saurabh Kurve.
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
 
-### 💻 &nbsp;About Me 
-
-- 🤔 &nbsp; Exploring new technologies and developing programming insights.
-- 🎓 &nbsp; Pursuing Master of Computer Application.
-- :arrow_right: Learning DevOps
-- :arrow_right: C and C++ Programmer
-
-
-<br>
-
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=saurabhkurve.saurabhkurve)
+[![Github](https://img.shields.io/github/followers/saurabhkurve?label=Follow&style=social)](https://github.com/saurabhkurve)
+  
 <!--
 **saurabhkurve/saurabhkurve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
