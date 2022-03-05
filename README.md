@@ -4,7 +4,6 @@
 <p align='center'>
 </p>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=saurabhkurve.saurabhkurve)
 [![Github](https://img.shields.io/github/followers/saurabhkurve?label=Follow&style=social)](https://github.com/saurabhkurve)
   
 <!--
