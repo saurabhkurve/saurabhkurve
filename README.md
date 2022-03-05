@@ -6,6 +6,9 @@
 
 [![Github](https://img.shields.io/github/followers/saurabhkurve?label=Follow&style=social)](https://github.com/saurabhkurve)
   
+<div size='20px'> Hi! My name is Saurabh Kurve. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
+
 <!--
 **saurabhkurve/saurabhkurve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
