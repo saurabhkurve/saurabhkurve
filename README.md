@@ -4,8 +4,6 @@
 <p align='center'>
 </p>
 
-[![Github](https://img.shields.io/github/followers/saurabhkurve?label=Follow&style=social)](https://github.com/saurabhkurve)
-  
 <div size='20px'> Hi! My name is Saurabh Kurve. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
   
