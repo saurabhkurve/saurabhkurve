@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+## I'm Saurabh Kurve.
+
+### 💻 &nbsp;About Me 
+
+- 🤔 &nbsp; Exploring new technologies and developing programming insights.
+- 🎓 &nbsp; Pursuing Master of Computer Application.
+- :arrow_right: Learning DevOps
+- :arrow_right: C and C++ Programmer
+
+
+<br>
+
 <!--
 **saurabhkurve/saurabhkurve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
