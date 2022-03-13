@@ -44,7 +44,7 @@
   
 [![Saurabh's's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saurabhkurve&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Saurabh's github stats](https://github-readme-stats.vercel.app/api?username=saurabhkurve&show_icons=true&theme=tokyonight) | ![Saurabh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
+| ![Saurabh's github stats](https://github-readme-stats.vercel.app/api?username=saurabhkurve&show_icons=true&theme=tokyonight) | ![Saurabh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saurabhkurve&theme=tokyonight) |
 | --- | --- |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhkurve&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=saurabhkurve&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
   
