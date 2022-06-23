@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently pursuing Master of Computer Application
   
-- 🌱 I’m currently learning Git,Github,DevOps
+- 🌱 I’m currently learning Git,Github,Data Science
   
 - 💬 Ask me about C, C++.
   
