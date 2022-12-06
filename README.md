@@ -142,7 +142,7 @@
 
 <div align='center'>
 
-## <b>Peace, mercy and blessings of God...✨</b>
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 </div>
 <br>
