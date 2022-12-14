@@ -19,10 +19,10 @@
 <br>
 
 - A passionate Self-taught Wed Developer
-- DevOps enthusiast.
+- DevOps and Blockchain enthusiast.
 - Currently learning Web Development by Self.
 - Personal website [link](https://saurabhkurve.github.io/portfolio/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1Or2k7qE7zsgOgPdHQhixT_kz8Mv0ePVW/view)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1mLD-U9z-yrYo9I-AMKQvgQDTLAjS6ZvP/view?usp=share_link)
 
 <br><br>
 
