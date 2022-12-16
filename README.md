@@ -78,13 +78,14 @@
 
 <br>
 <br>
-	<p align='center'><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhkurve&theme=radical" alt="saurabh kurve" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=saurabhkurve&count_private=true&theme=radical"/></p>
+	
 -----
 
 <br>
 
 
 <!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<p align='center'><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhkurve&theme=radical" alt="saurabh kurve" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=saurabhkurve&count_private=true&theme=radical"/></p>
 <br>
 
 <div align="center">
