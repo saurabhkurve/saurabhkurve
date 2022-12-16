@@ -78,7 +78,7 @@
 
 <br>
 <br>
-
+	<p align='center'><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhkurve&theme=radical" alt="saurabh kurve" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=saurabhkurve&count_private=true&theme=radical"/></p>
 -----
 
 <br>
