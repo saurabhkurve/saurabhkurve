@@ -84,24 +84,10 @@
 <br>
 
 
-<!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <p align='center'><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhkurve&theme=radical" alt="saurabh kurve" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=saurabhkurve&count_private=true&theme=radical"/></p>
 <br>
-
-<div align="center">
-
-<a href="https://github.com/saurabhkurve/">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabhkurve&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhkurve&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="saurabhkurve"/>
-
-</a>
-</div> -->
-
 <br>
-<br>
-<br>
-
------
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
