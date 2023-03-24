@@ -18,6 +18,7 @@
 
 <br>
 
+- Currently working in the field of data analytics.
 - A passionate Self-taught Wed Developer
 - DevOps and Blockchain enthusiast.
 - Currently learning Web Development by Self.
