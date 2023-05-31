@@ -21,7 +21,7 @@
 - Currently working in the field of data analytics.
 - A passionate Self-taught Wed Developer
 - DevOps and Blockchain enthusiast.
-- Currently learning Web Development by Self.
+- Currently working as a Data Analyst at Codons Technologies PVT. LTD.
 - Personal website [link](https://saurabhkurve.github.io/portfolio/)
 <!-- - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1mLD-U9z-yrYo9I-AMKQvgQDTLAjS6ZvP/view?usp=share_link) -->
 
