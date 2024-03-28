@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/saurabhkurve/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Analyst,;Self-taught+Web+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/saurabhkurve/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines= Full Stack Developer,;Data+Analyst,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -18,8 +18,8 @@
 
 <br>
 
-- Currently working in the field of data analytics.
-- A passionate Self-taught Wed Developer
+- Currently working as a fullstack developer. 
+- A data analyst.
 - DevOps and Blockchain enthusiast.
 - Currently working as a Data Analyst at Codons Technologies PVT. LTD.
 - Personal website [link](https://saurabhkurve.github.io/portfolio/)
