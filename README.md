@@ -22,7 +22,7 @@
 - A data analyst.
 - DevOps and Blockchain enthusiast.
 - I am open to work.
-- Reach me at (mailto:saurabhkurve100@gmail.com)
+- Reach me at saurabhkurve100@gmail.com
 <!-- - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1mLD-U9z-yrYo9I-AMKQvgQDTLAjS6ZvP/view?usp=share_link) -->
 
 <br><br>
