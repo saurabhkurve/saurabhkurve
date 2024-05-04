@@ -18,7 +18,7 @@
 
 <br>
 
-- Currently working as a fullstack developer. 
+- Currently working as a fullstack developer intern. 
 - A data analyst.
 - DevOps and Blockchain enthusiast.
 - I am open to work.
