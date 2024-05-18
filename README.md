@@ -1,6 +1,9 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=saurabhkurve&color=FAC151)
 # 💫 About Me:                                                                                                        
-Currently working as a fullstack developer intern.<br>A data analyst.<br>I am open to work.<br>Reach me at saurabhkurve100@gmail.com<br>        
+- Currently working as a fullstack developer intern.<br>
+-  A data analyst.<br>
+- I am open to work.<br>
+- Reach me at saurabhkurve100@gmail.com<br>        
 
 
 ## 🌐 Socials:
