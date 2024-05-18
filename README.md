@@ -3,7 +3,7 @@
 - Currently working as a fullstack developer intern.<br>
 -  A data analyst.<br>
 - I am open to work.<br>
-- Reach me at ssaurabhkurve@pm.me<br>        
+- Reach me at saurabhkurve@pm.me<br>        
 
 
 ## 🌐 Socials:
