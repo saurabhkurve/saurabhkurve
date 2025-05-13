@@ -7,7 +7,6 @@ Full Stack Developer
 
 I am a dedicated full-stack developer with a strong foundation in both frontend and backend technologies. I hold a Master’s in Computer Applications (MCA) and specialize in crafting responsive, modern user interfaces using HTML, CSS, Tailwind, Bootstrap, React, JavaScript, and TypeScript. On the backend, my expertise in Java, Spring, Spring Boot, and Hibernate enables me to build robust REST APIs and scalable, data-driven applications. I am passionate about delivering seamless user experiences through efficient and well-architected solutions.
 
-* 🌍  I'm based in Nagpur, Maharashtra, India.
 * 🖥️  See my portfolio at [www.saurabhkurve.live](http://www.saurabhkurve.live)
 * ✉️  You can contact me at [saurabhkurve@pm.me](mailto:saurabhkurve@pm.me)
 * 🧠  I'm working at Netflorist as a Software Engineer.
