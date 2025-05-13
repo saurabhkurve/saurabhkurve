@@ -10,7 +10,7 @@ I am a dedicated full-stack developer with a strong foundation in both frontend 
 * 🌍  I'm based in Nagpur, Maharashtra, India.
 * 🖥️  See my portfolio at [www.saurabhkurve.live](http://www.saurabhkurve.live)
 * ✉️  You can contact me at [saurabhkurve@pm.me](mailto:saurabhkurve@pm.me)
-* 🧠  I'm learning Cloud Computing.
+* 🧠  I'm working at Netflorist as a Software Engineer.
 * 🤝  I'm open to collaborating on Frontend and Backend projects.
 
 ### Skills
